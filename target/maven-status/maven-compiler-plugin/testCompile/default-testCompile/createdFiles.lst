@@ -1,0 +1,6 @@
+com/example/UserServiceTest.class
+com/example/StudentDAOIntegrationTest.class
+com/example/StudentServiceTests.class
+com/example/RedisBackedCache.class
+com/example/TemperatureTests.class
+com/example/RedisBackedCacheIntTest.class

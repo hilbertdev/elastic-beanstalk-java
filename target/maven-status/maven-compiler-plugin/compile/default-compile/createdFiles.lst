@@ -1,0 +1,13 @@
+com/example/models/User.class
+com/example/services/ConnectionProvider.class
+com/example/services/TemperatureConverter.class
+com/example/models/dataaccess/StudentDAOImpl.class
+com/example/models/Student.class
+com/example/models/dataaccess/StudentDAO.class
+com/example/Controller.class
+com/example/services/StudentService.class
+com/example/services/UserService.class
+com/example/Application.class
+com/example/services/EmailVerificationProvider.class
+com/example/services/StringUtils.class
+com/example/models/Enums/Departments.class

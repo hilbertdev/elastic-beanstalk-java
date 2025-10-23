@@ -1,0 +1,13 @@
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/models/Student.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/services/ConnectionProvider.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/models/dataaccess/StudentDAO.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/services/StringUtils.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/services/EmailVerificationProvider.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/models/Enums/Departments.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/Controller.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/Application.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/services/StudentService.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/models/dataaccess/StudentDAOImpl.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/services/UserService.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/models/User.java
+/Users/hilbertmu/source/eb-java/src/main/java/com/example/services/TemperatureConverter.java

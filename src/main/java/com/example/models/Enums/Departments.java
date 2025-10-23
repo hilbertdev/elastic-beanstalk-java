@@ -1,0 +1,9 @@
+package com.example.models.Enums;
+
+public enum Departments {
+    COMPUTER_SCIENCE,
+    ELECTRICAL_ENGINEERING,
+    MECHANICAL_ENGINEERING,
+    CIVIL_ENGINEERING,
+    BUSINESS_ADMINISTRATION
+}
