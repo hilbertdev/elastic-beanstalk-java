@@ -1,0 +1,7 @@
+main -> this is where your production code sits - production 
+release -> the new work sits -> staging / pre-prod 
+personal-branch -> this has your changes - deployed dev 
+
+
+1. Pull Request 
+  
